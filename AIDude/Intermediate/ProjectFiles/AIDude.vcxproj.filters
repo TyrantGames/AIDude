@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AIDude.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5A2686FB-3AB7-4423-82A5-1A7C1F715880}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AIDude.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AIDudeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{49483735-19E5-4268-9B91-DE80AF9389C2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AIDude">
+      <UniqueIdentifier>{8C8D7585-F42C-41AD-BF84-AF060ED0CD04}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AIDude\AIDude.Build.cs">
+      <Filter>Source\AIDude</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AIDude\AIDude.cpp">
+      <Filter>Source\AIDude</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIDude\AIDude.h">
+      <Filter>Source\AIDude</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIDude\AIDudeGameModeBase.cpp">
+      <Filter>Source\AIDude</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIDude\AIDudeGameModeBase.h">
+      <Filter>Source\AIDude</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIDude\MechanicState.cpp">
+      <Filter>Source\AIDude</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIDude\MechanicState.h">
+      <Filter>Source\AIDude</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIDude\Tess.cpp">
+      <Filter>Source\AIDude</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIDude\Tess.h">
+      <Filter>Source\AIDude</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIDude\TessCON.cpp">
+      <Filter>Source\AIDude</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIDude\TessCON.h">
+      <Filter>Source\AIDude</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIDude\TESS_GM.cpp">
+      <Filter>Source\AIDude</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIDude\TESS_GM.h">
+      <Filter>Source\AIDude</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIDude\TESS_GS.cpp">
+      <Filter>Source\AIDude</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIDude\TESS_GS.h">
+      <Filter>Source\AIDude</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

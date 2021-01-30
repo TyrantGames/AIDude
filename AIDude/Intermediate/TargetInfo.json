@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AIDude",
+			"Path": "C:\\Users\\24owe\\OneDrive\\GameJam\\AIDude\\Source\\AIDude.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AIDudeEditor",
+			"Path": "C:\\Users\\24owe\\OneDrive\\GameJam\\AIDude\\Source\\AIDudeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
