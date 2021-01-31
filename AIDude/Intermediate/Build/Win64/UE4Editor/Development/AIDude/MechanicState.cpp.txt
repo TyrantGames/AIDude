@@ -1,5 +1,0 @@
-C:\Users\24owe\OneDrive\GameJam\AIDude\Intermediate\Build\Win64\UE4Editor\Development\AIDude\Definitions.AIDude.h
-C:\Users\24owe\OneDrive\GameJam\AIDude\Source\AIDude\MechanicState.h
-E:\Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedEnum.h
-E:\Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UserDefinedEnum.generated.h
-C:\Users\24owe\OneDrive\GameJam\AIDude\Intermediate\Build\Win64\UE4Editor\Inc\AIDude\MechanicState.generated.h
